@@ -132,18 +132,6 @@ Statistical modeling of U.S. health outcome disparities using 2025 Health Founda
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Jeffrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olneyjR&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olneyjR&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
 ## Core Competencies
 
 **Data Engineering:** ETL Pipeline Design • Real-Time Data Processing • Event-Driven Architecture • Data Quality Frameworks
