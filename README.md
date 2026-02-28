@@ -2,8 +2,9 @@
 
 # Jeffrey Olney
 
-**Data Engineer | Healthcare Analytics | Real-Time Pipelines**
+**Analytics Engineer | Healthcare Analytics | Full-Stack Data**
 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://olneyjr.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-olney/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olneyjR)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olneyjr2@gmail.com)
@@ -14,7 +15,7 @@
 
 ## About Me
 
-Data professional specializing in full-stack analytics and data engineering with 10+ years of experience bridging data infrastructure and analytical insight delivery. Expert in building real-time data pipelines, ETL systems, and AI-powered applications for healthcare and public health domains.
+I architect data pipelines and the analytics layer on top of them — the end-to-end work that's increasingly recognized as analytics engineering, sitting at the gap between roles that have traditionally been separate. 10+ years across healthcare and public health, from extraction to insight delivery.
 
 ## Tech Stack
 
@@ -134,9 +135,11 @@ Statistical modeling of U.S. health outcome disparities using 2025 Health Founda
 
 ## Core Competencies
 
+**Analytics Engineering:** End-to-End Pipeline Design • Insight Delivery • Self-Service Analytics • EHR Data Integration
+
 **Data Engineering:** ETL Pipeline Design • Real-Time Data Processing • Event-Driven Architecture • Data Quality Frameworks
 
-**Analytics & ML:** Statistical Modeling • Machine Learning • Causal Inference • Predictive Analytics • RAG Systems
+**ML & AI:** Statistical Modeling • Machine Learning • Causal Inference • Predictive Analytics • RAG Systems
 
 **Technologies:** Python • R • SQL • TypeScript • Docker • Airflow • Postgres • DuckDB • LangChain • ChromaDB
 
@@ -151,6 +154,6 @@ Statistical modeling of U.S. health outcome disparities using 2025 Health Founda
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-olney/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olneyjr2@gmail.com)
 
-**Open to:** Data Engineering Roles • Healthcare Analytics • Remote Opportunities
+**Open to:** Analytics Engineering • Data Engineering • Healthcare Analytics • Remote Opportunities
 
 </div>
