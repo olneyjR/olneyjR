@@ -15,7 +15,7 @@
 
 ## About Me
 
-I architect data pipelines and the analytics layer on top of them — the end-to-end work that's increasingly recognized as analytics engineering, sitting at the gap between roles that have traditionally been separate. 10+ years across healthcare and public health, from extraction to insight delivery.
+A brief history of building data pipelines, analyzing what comes out of them, and turning models into real world tools — the full stack, from raw EHR data to clinical decision support.
 
 ## Tech Stack
 
@@ -33,6 +33,38 @@ I architect data pipelines and the analytics layer on top of them — the end-to
 ---
 
 ## Featured Projects
+
+### AI/ML Applications
+
+#### [PaceWise RAG](https://pace-wise-rag.streamlit.app)
+Marathon training assistant using Retrieval-Augmented Generation with LangChain, ChromaDB vector search, and semantic embeddings.
+
+**Tech:** Python • LangChain • ChromaDB • RAG • Vector Database • Streamlit
+
+[![View Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://pace-wise-rag.streamlit.app)
+[![View Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/olneyjR/pace-wise-RAG)
+
+---
+
+#### [PulsePoint RAG](https://pulsepoint-rag.streamlit.app)
+AI-powered healthcare information retrieval system with Groq/Llama integration, vector search, and safety guardrails.
+
+**Tech:** Python • Groq • Llama • ChromaDB • RAG • Healthcare AI
+
+[![View Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://pulsepoint-rag.streamlit.app)
+[![View Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/olneyjR/pulsepoint-RAG)
+
+---
+
+#### [Symptom Tracker](https://symptom-tracker-three.vercel.app)
+Privacy-first AI symptom analysis application with Groq/Llama3-70B integration, built with TypeScript and React.
+
+**Tech:** TypeScript • React • Groq • Llama3-70B • LocalStorage • Vercel
+
+[![View Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat&logo=vercel&logoColor=white)](https://symptom-tracker-three.vercel.app)
+[![View Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/olneyjR/symptom-tracker)
+
+---
 
 ### Real-Time Data Pipelines
 
@@ -65,38 +97,6 @@ Production data engineering pipeline with Airflow orchestration, Docker containe
 [![View Dashboard](https://img.shields.io/badge/Dashboard-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://fda-drug-safety-dashboard-api-supplamental.streamlit.app)
 [![Pipeline Code](https://img.shields.io/badge/Pipeline-181717?style=flat&logo=github&logoColor=white)](https://github.com/olneyjR/mediquality-analytics)
 [![API Code](https://img.shields.io/badge/API-181717?style=flat&logo=github&logoColor=white)](https://github.com/olneyjR/fda-drug-safety-dashboard)
-
----
-
-### AI/ML Applications
-
-#### [PaceWise RAG](https://pace-wise-rag.streamlit.app)
-Marathon training assistant using Retrieval-Augmented Generation with LangChain, ChromaDB vector search, and semantic embeddings.
-
-**Tech:** Python • LangChain • ChromaDB • RAG • Vector Database • Streamlit
-
-[![View Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://pace-wise-rag.streamlit.app)
-[![View Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/olneyjR/pace-wise-RAG)
-
----
-
-#### [PulsePoint RAG](https://pulsepoint-rag.streamlit.app)
-AI-powered healthcare information retrieval system with Groq/Llama integration, vector search, and safety guardrails.
-
-**Tech:** Python • Groq • Llama • ChromaDB • RAG • Healthcare AI
-
-[![View Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://pulsepoint-rag.streamlit.app)
-[![View Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/olneyjR/pulsepoint-RAG)
-
----
-
-#### [Symptom Tracker](https://symptom-tracker-three.vercel.app)
-Privacy-first AI symptom analysis application with Groq/Llama3-70B integration, built with TypeScript and React.
-
-**Tech:** TypeScript • React • Groq • Llama3-70B • LocalStorage • Vercel
-
-[![View Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat&logo=vercel&logoColor=white)](https://symptom-tracker-three.vercel.app)
-[![View Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/olneyjR/symptom-tracker)
 
 ---
 
