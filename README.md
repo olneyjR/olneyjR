@@ -36,6 +36,16 @@ A brief history of building data pipelines, analyzing what comes out of them, an
 
 ### AI/ML Applications
 
+#### [Symptom Tracker](https://symptom-tracker-three.vercel.app)
+Privacy-first AI symptom analysis application with Groq/Llama3-70B integration, built with TypeScript and React.
+
+**Tech:** TypeScript • React • Groq • Llama3-70B • LocalStorage • Vercel
+
+[![View Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat&logo=vercel&logoColor=white)](https://symptom-tracker-three.vercel.app)
+[![View Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/olneyjR/symptom-tracker)
+
+---
+
 #### [PaceWise RAG](https://pace-wise-rag.streamlit.app)
 Marathon training assistant using Retrieval-Augmented Generation with LangChain, ChromaDB vector search, and semantic embeddings.
 
@@ -53,16 +63,6 @@ AI-powered healthcare information retrieval system with Groq/Llama integration, 
 
 [![View Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://pulsepoint-rag.streamlit.app)
 [![View Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/olneyjR/pulsepoint-RAG)
-
----
-
-#### [Symptom Tracker](https://symptom-tracker-three.vercel.app)
-Privacy-first AI symptom analysis application with Groq/Llama3-70B integration, built with TypeScript and React.
-
-**Tech:** TypeScript • React • Groq • Llama3-70B • LocalStorage • Vercel
-
-[![View Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat&logo=vercel&logoColor=white)](https://symptom-tracker-three.vercel.app)
-[![View Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/olneyjR/symptom-tracker)
 
 ---
 
